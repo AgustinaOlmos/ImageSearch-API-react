@@ -50,7 +50,7 @@ function App() {
   return (
     <div className="container">
       <div className="jumbotron">
-        <p className="lead text-center">Image Browser</p>
+        <h1 className="display-3 text-center mb-5">ImageBrowser</h1>
 
         <Formulario
           guardarbusqueda={guardarbusqueda}
